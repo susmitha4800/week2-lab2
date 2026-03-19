@@ -1,0 +1,21 @@
+age,income,education_level,employment_status,purchase_history,target
+25,45000,Bachelor's,Employed,High,1
+30,55000,Master's,Employed,Medium,1
+35,65000,High School,Self-employed,Low,0
+28,38000,Bachelor's,Unemployed,Low,0
+42,75000,PhD,Employed,High,1
+33,52000,Bachelor's,Employed,Medium,1
+29,48000,Master's,Employed,High,1
+38,68000,Bachelor's,Self-employed,Medium,0
+26,42000,High School,Employed,Low,0
+45,80000,PhD,Employed,High,1
+31,59000,Master's,Unemployed,Medium,0
+27,46000,Bachelor's,Employed,Medium,1
+40,72000,Master's,Self-employed,High,0
+24,35000,High School,Unemployed,Low,0
+36,63000,Bachelor's,Employed,High,1
+32,57000,Master's,Employed,Medium,1
+39,70000,PhD,Self-employed,Medium,0
+23,32000,High School,Employed,Low,0
+44,78000,Master's,Employed,High,1
+37,67000,Bachelor's,Unemployed,Medium,0

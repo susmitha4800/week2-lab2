@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "predictive-modeling",
+      "title": "Predictive Modeling with Machine Learning",
+      "description": "Build and evaluate machine learning models for classification tasks using scikit-learn.",
+      "path": "assignments/predictive-modeling",
+      "dueDate": "2026-04-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample-dataset.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
